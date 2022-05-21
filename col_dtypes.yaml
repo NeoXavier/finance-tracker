@@ -1,0 +1,7 @@
+'Transaction Date' : 'str'
+'Debit Amount' : 'float64'
+'Credit Amount' : 'float64'
+'Transaction Ref1' : 'str'
+'Transaction Ref2' : 'str'
+'Transaction Ref3' : 'str'
+'Category' : 'str'

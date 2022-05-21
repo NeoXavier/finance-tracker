@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "personalfinance-347102",
+  "private_key_id": "711f9c425e3753d1c21a210fa311251c3a67d030",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnbisFdTRldV06\n6rqc6VTnF5KbBdj7KDCHR8KAU+R9x3z5Pcyxq9PW0AnvX4fd09C+I7SUUjnsz7Hn\ncXkJs+L/XT1cPot4rB53RCXyGgYboBPKhdM4IwA8C4RWpPtNJsNsBQF2K6DYzuu7\nPJjPcypDRLyC2BUGEuQ6RGb78yrUE9g8DRBpsgjc6darp0A6U3eA1S4eol4eHC13\nWHwdCD0A3AidosZQHrhgdwaLHMR6rn6F4UVfOoRvBXld5+o1hiJu+Sp492HK2Gp7\nASf6wiVbj1hV0lKOjTbaLe3ootd0rAcyGZ+gt3PkLzWPZici1GbHmh2F32ZbDoso\nrNvOojihAgMBAAECgf80+aajE3KAp6HYAm0JOMqkU9EPO8prrUutggcIk4K4SWZB\ndkxN6xAb57c9Bfz3Mw3ZG3MHevzY8N5ZXI3vg/tO0TGY/jEi/VKmaemXsKQ+GWgp\nrC4olOp+FSbKQ2lAAAPVKcBMo4FBGDd+Bq5S9R1qK1V6EOSWB2QvC3WKQmZKs3jh\nNt5uLCSmLbgVEdk+GVeXjaiqRBIuio2WAo4Cmb+cYr+qyoaPPrMOQdBG+U8Cna1K\n+KuukR5pyhl3qEQddpRRTrzFIu4CIFw+MVASWYmmt84/yPFuXlKV6sMFsqLDDHHS\nMNzmqabaxCelKyCleavPNLoYqFOUMtm7kA+YujECgYEA55qIsauUZn2KTtM4j5VW\nK4OFYiBdCR68moAOZ1pUtlKLRnFef5QE7Ggc39MwkP1aIMlNdJLXnVAx86C1oUZk\nusb3U0gjvnkxCxMA33GfCAVNIe/xrKVKF3Dekh5tiP9flOlGnjhvFIixrUPRbtnJ\nlQ9TpTiLghMK4jJoxporPhUCgYEAuREgB18rn8anDuwQF/Qq2zA1uFcAophNcvWC\nhnmE4aq7FC24mvW3AL+ZxjcDoig8EixOZm/7PIRAhO1fX8bmUjm/S+I2j+YFBb6/\nUS6MpTwqpR5655lD5qrsSQTOF0bjf1aeRqXU2PtavLktJFPHcgFa5fbHfmX1qS3Z\nR0Tvv10CgYEAlWBBO757V2Mu+koXF9xsmGIafEB9YO13HXrsT1Kegn1YoNVr6oLw\nbf10ahQPJeSR5cWP9FjlQexAW27S1rLNMv4y9H75ttb5f7gA/xyMQqMQrYvRZtWw\npM/CbaG8afizkBqo1lF1q1vCpQqxoHpNHpulClIfAIUBpwR2OWmj7EUCgYEAonht\nVOtxQejFeu01R8I86YbOcpI25Yet3rG4sFP4m6EmchWdjrUOvyJ2XrSnhPGrowyw\nm2/N8ZftiIVYCJ52T1ORJI5o9jWqzRtjnGKwaNOEYMd8gNxl5xjBLW2BfJ/oUz94\n3m7xiLhKNYqgHddLLkQQR/k5tDbQz4CH0vCrRaUCgYEA4rkA9+Eylaj75uWre2YR\n8DVNluOEjEFNx1i9GNnvNDBddsOQ3i+yuFfjU0yreHG823G2L0Cm4v3DvqAHIOrH\nJZHg8zs+KZJmEsg6v170x/wQ7Hji1aw4yWEub0gFRGlBv4HsHy4PFJV5aqLAvADD\neOV3fANrOKzEEDbWX3ouiIc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "reivaxfinance@personalfinance-347102.iam.gserviceaccount.com",
+  "client_id": "113680773004044622867",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reivaxfinance%40personalfinance-347102.iam.gserviceaccount.com"
+}
