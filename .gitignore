@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Python Version
+.python-version
+
+#Mac file system
+.DS_Store
+
+#Sensitive Documents
+personalfinance*.json
+
+#Personal Data
+*.csv
+*.parquet
+
+todo.txt
