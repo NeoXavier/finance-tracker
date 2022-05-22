@@ -10,7 +10,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 # define the scope
 SCOPE = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
 # add credentials to the account
-CREDS = ServiceAccountCredentials.from_json_keyfile_name('misc/personalfinance-347102-711f9c425e37.json', SCOPE)
+CREDS = ServiceAccountCredentials.from_json_keyfile_name('misc/personalfinance-347102-e8927945dc1c.json', SCOPE)
 # authorize the client
 CLIENT = gspread.authorize(CREDS)
 
